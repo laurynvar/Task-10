@@ -1,6 +1,7 @@
 /* ------------------------------ TASK 9 ---------------------------------------------------
 Sutvarkykite užduoties "Task 10" esančius failus taip, kad veiktų žemiau pateiktos funkcijos
 -------------------------------------------------------------------------------------------- */
+import { one, two, three, four, five } from "./number.js";
 
 let a = composition(one, four);
 let b = division(four, two);
